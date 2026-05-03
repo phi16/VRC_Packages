@@ -21,7 +21,8 @@
             "name":"com.imaginantia.compeito",
             "releases":[
                 "https://github.com/phi16/Compeito/releases/download/v0.0.0/com.imaginantia.compeito-0.0.0.zip",
-                "https://github.com/phi16/Compeito/releases/download/v0.1.0/com.imaginantia.compeito-0.1.0.zip"
+                "https://github.com/phi16/Compeito/releases/download/v0.1.0/com.imaginantia.compeito-0.1.0.zip",
+                "https://github.com/phi16/Compeito/releases/download/v1.0.0/com.imaginantia.compeito-1.0.0.zip"
             ]
         }
     ]
